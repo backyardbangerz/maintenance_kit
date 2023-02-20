@@ -5,8 +5,8 @@ name = "Hugo Scroll"
 license = "MIT"
 licenselink = "https://github.com/janraasch/hugo-scroll/blob/master/LICENSE"
 description = "A Hugo theme for pretty, quick and simple single-page websites."
-homepage = "https://github.com/janraasch/hugo-scroll"
-demosite = "https://janraasch.github.io/hugo-scroll/"
+#homepage = "https://github.com/janraasch/hugo-scroll"
+#demosite = "https://janraasch.github.io/hugo-scroll/"
 tags = [
   "clean",
   "contact",
@@ -26,11 +26,12 @@ tags = [
 features = ["cover-image", "favicon", "header-menu", "auto-scroll"]
 min_version = "0.41.0"
 
-[author]
-  name = "Jan Raasch"
-  homepage = "https://www.janraasch.com"
+#
+#[author]
+#  name = "Jan Raasch"
+#  homepage = "https://www.janraasch.com"
 
-[original]
-  name = "GhostScroll"
-  homepage = "https://github.com/grmmph/GhostScroll"
-  repo = "https://github.com/grmmph/GhostScroll"
+#[original]
+#  name = "GhostScroll"
+#  homepage = "https://github.com/grmmph/GhostScroll"
+#  repo = "https://github.com/grmmph/GhostScroll"
